@@ -375,6 +375,7 @@ Recopilado por [Yamil Ayma](https://github.com/YamilAyma)
 
 ### 🛠️ HERRAMIENTAS:
 
+- [Basklee](https://basklee.com/es): CMS headless de pago para tiendas en línea, marketplaces con varios vendedores y blogs. Ofrece un panel para gestionar catálogo, inventario y pedidos, paneles para vendedores y una API documentada. Demo de 30 días sin tarjeta.
 - [Tilt](https://github.com/tilt-dev/tilt): Herramienta que define entornos de desarrollo como código para microservicios sobre Kubernetes con recarga y sincronización en vivo.
 - [Prettier](https://github.com/prettier/prettier): Formateador de código con soporte amplio que impone un estilo uniforme en JavaScript, TypeScript, HTML, CSS y Markdown.
 - [frp](https://github.com/fatedier/frp): Proxy inverso rápido y seguro para exponer servidores y servicios locales situados detrás de NAT o cortafuegos directamente a Internet.
